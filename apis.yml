@@ -1,0 +1,32 @@
+aid: what-the-commit
+name: What The Commit
+description: "Random commit message generator"
+url: http://whatthecommit.com/index.txt
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Test Data"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Test Data
+  - Public APIs
+apis:
+  - name: What The Commit
+    description: "Random commit message generator"
+    humanURL: http://whatthecommit.com/index.txt
+    baseURL: http://whatthecommit.com/index.txt
+    tags:
+      - Test Data
+    properties:
+      - type: Documentation
+        url: http://whatthecommit.com/index.txt
+common:
+  - type: Website
+    url: http://whatthecommit.com/index.txt
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
