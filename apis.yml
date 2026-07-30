@@ -1,4 +1,16 @@
 aid: what-the-commit
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/what-the-commit.png
 name: What The Commit
 description: "Random commit message generator"
 url: http://whatthecommit.com/index.txt
